@@ -1,0 +1,4 @@
+<rows> <cols>
+<obstaclePercentage>
+<startRow> <startCol> <startDirection>
+<goalRow> <goalCol>
